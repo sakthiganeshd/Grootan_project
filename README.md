@@ -14,3 +14,8 @@ CREATE TABLE `details`.`login` (
   `address2` VARCHAR(45) NOT NULL,
   `address3` VARCHAR(45) NOT NULL,
   PRIMARY KEY (`id`));
+
+Programming Language used - Java, Core Java. 
+Front end - HTML, CSS, JSP.
+Data Base - MySQL
+Local Servers Used - Apache Tomcat
