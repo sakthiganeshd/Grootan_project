@@ -1,6 +1,7 @@
 # Grootan_project_SakthiGaneshD
+
 create table if not exists
-CREATE TABLE `details`.`details_table` (
+CREATE TABLE `details`.`login` (
   `id` INT NOT NULL,
   `first_name` VARCHAR(45) NOT NULL,
   `last_name` VARCHAR(45) NOT NULL,
